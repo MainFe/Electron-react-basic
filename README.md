@@ -1,7 +1,5 @@
 # Electron-react-basic setting
 
-[![CI](https://github.com/zed-industries/zed/actions/workflows/ci.yml/badge.svg)](https://github.com/zed-industries/zed/actions/workflows/ci.yml)
-
 Welcome to Electron-react basic setting  
 시작하기 위해선, 소스를 clone하고,  
 터미널에서 __npm ci__ 혹은 __npm install__ 후,
