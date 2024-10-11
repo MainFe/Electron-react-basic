@@ -30,5 +30,8 @@ __npm start__ 를 입력해주세요.
   "start-electron": "wait-on http://localhost:3000 && electron ."  
 },  
 </code>  
+
+main.js파일 생성 및 Electron 코드 작성  
+
 // npm start 명령어로 동작 확인  
 \$ __npm start__
